@@ -6,7 +6,7 @@
 ```
 python 3.0
 Install folowing libraries in python:
-> [pandas]( https://pypi.org/project/pandas/)
+ [pandas]( https://pypi.org/project/pandas/)
 > matplotlib
 > plotly
 >
