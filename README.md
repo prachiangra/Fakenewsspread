@@ -1,17 +1,11 @@
-# Fakenewsspread
+# :octocat: Fakenewsspread
 >This is a small study conducted to check how many individuals unintentionally become a part of fake news spread cycle. 
 >This study has been done using 200 responses from close peer.
 
-
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
- 
-What things you need to install the software and how to install them
-
+ > Running python 3.0
+ > Download the responses file from the files section
+ > Install the following libraries
 ```
 Give examples
 ```
