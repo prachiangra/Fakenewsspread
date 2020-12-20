@@ -2,11 +2,11 @@
 >This is a small study conducted to check how many individuals unintentionally become a part of fake news spread cycle. 
 >This study has been done using 200 responses from close peer.
 
-### Prerequisites
+### :package: Prerequisites
 ```
 python 3.0
 Install folowing libraries in python:
-> pandas
+> [pandas]( https://pypi.org/project/pandas/)
 > matplotlib
 > plotly
 ```
