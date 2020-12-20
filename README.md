@@ -1,8 +1,7 @@
 # Fakenewsspread
-This is a small study conducted to check how many individuals unintentionally become a part of fake news spread cycle. This study has been done using 200 responses from close peer.
-As Grace Hopper said:
-> I’ve always been more interested
-> in the future than in the past.
+>This is a small study conducted to check how many individuals unintentionally become a part of fake news spread cycle. 
+>This study has been done using 200 responses from close peer.
+
 
 
 ## Getting Started
