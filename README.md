@@ -9,9 +9,9 @@ Install folowing libraries in python:
 > [pandas]( https://pypi.org/project/pandas/)
 > matplotlib
 > plotly
->![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15 red`
+>
 ```
-
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15 red`
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
