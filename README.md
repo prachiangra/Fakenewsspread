@@ -3,13 +3,14 @@
 >This study has been done using 200 responses from close peer.
 
 ### :package: Prerequisites
-
+```
 python 3.0
 Install folowing libraries in python:
 > [pandas]( https://pypi.org/project/pandas/)
 > matplotlib
 > plotly
-
+>![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15 red`
+```
 
 ### Installing
 
