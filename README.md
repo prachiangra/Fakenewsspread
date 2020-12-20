@@ -3,11 +3,12 @@
 >This study has been done using 200 responses from close peer.
 
 ### Prerequisites
- > Running python 3.0
- > Download the responses file from the files section
- > Install the following libraries
 ```
-Give examples
+python 3.0
+Install folowing libraries in python:
+> pandas
+> matplotlib
+> plotly
 ```
 
 ### Installing
